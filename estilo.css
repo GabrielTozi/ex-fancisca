@@ -1,0 +1,80 @@
+#ed1 {
+    float: left;
+}
+
+#ed2 {
+    float: right;
+}
+
+#ed3 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    margin-bottom: 200px;
+    margin-top: 300px;
+}
+
+#ed4 {
+    float: left;
+}
+
+#ed5 {
+    float: right;
+}
+
+.fundo {
+    padding: 60px;
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+#ed01 {
+    float: left;
+    margin: -73px 20px 0 -50px;
+    padding: 5px;
+}
+
+#ed02 {
+    float: right;
+    margin: -73px 20px 0 50px;
+    padding: 5px;
+}
+
+#ed03 {
+    float: left;
+    margin: -73px 20px 0 -50px;
+    padding: 5px;
+}
+
+#ed04 {
+    float: right;
+    margin: -73 px 20px 0 -50px;
+    padding: 0;
+}
+
+#topo {
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+}
+
+#esquerda{
+    height: 960px;
+    width: 500px;
+    background-color: brown;
+}
+
+#direita{
+    float: right;
+    height: 960px;
+    width: 1200px;
+    background-color:darkblue;
+}
+#baixo{
+    width: 100%;
+    height: 200px;
+    background-color:darkorchid;
+}
